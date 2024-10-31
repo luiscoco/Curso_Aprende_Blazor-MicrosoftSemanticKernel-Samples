@@ -1,0 +1,34 @@
+[
+  {
+    "person": "Gladys",
+    "email_subject": "Project Update",
+    "email_body": "Hey, just wanted to give you a quick update on the project. We\u2019re nearly there!",
+    "date_received": "2024-10-18",
+    "is_important": true,
+    "is_read": true
+  },
+  {
+    "person": "Vesa",
+    "email_subject": "Follow-up on Task",
+    "email_body": "Can we get an update on the pending task?",
+    "date_received": "2024-10-19",
+    "is_important": true,
+    "is_read": true
+  },
+  {
+    "person": "Jeremy",
+    "email_subject": "Meeting Agenda",
+    "email_body": "Here\u2019s the agenda for tomorrow\u2019s meeting.",
+    "date_received": "2024-10-20",
+    "is_important": true,
+    "is_read": true
+  },
+  {
+    "person": "Vincent",
+    "email_subject": "Sprint Planning",
+    "email_body": "We need to finalize the details for the upcoming sprint.",
+    "date_received": "2024-10-18",
+    "is_important": true,
+    "is_read": false
+  }
+]

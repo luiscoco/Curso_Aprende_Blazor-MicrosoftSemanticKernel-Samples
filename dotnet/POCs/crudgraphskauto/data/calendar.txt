@@ -1,0 +1,44 @@
+[
+  {
+    "person": "Gladys",
+    "event_title": "Project Planning",
+    "event_details": "Discuss the next steps in the project.",
+    "date": "2024-10-21",
+    "time_blocked": "09:00 AM - 10:00 AM"
+  },
+  {
+    "person": "Seb",
+    "event_title": "Code Review",
+    "event_details": "Review the latest changes in the project codebase.",
+    "date": "2024-10-22",
+    "time_blocked": "12:00 PM - 01:00 PM"
+  },
+  {
+    "person": "Vincent",
+    "event_title": "Sprint Planning",
+    "event_details": "Plan the tasks for the upcoming sprint.",
+    "date": "2024-10-18",
+    "time_blocked": "02:00 PM - 03:00 PM"
+  },
+  {
+    "person": "Luis",
+    "event_title": "Budget Review",
+    "event_details": "Review the upcoming project\u2019s budget for Q4.",
+    "date": "2024-10-21",
+    "time_blocked": "09:00 AM - 10:00 AM"
+  },
+  {
+    "person": "VESA",
+    "event_title": "FOLLOW-UP ON TASK WITH VESA",
+    "event_details": "CAN WE GET AN UPDATE ON THE PENDING TASK?",
+    "date": "2024-10-21",
+    "time_blocked": "07:00 AM - 08:00 AM"
+  },
+  {
+    "person": "VINCENT",
+    "event_title": "[SPRINT PLANNING] MEETING",
+    "event_details": "WE NEED TO FINALIZE THE DETAILS FOR THE UPCOMING SPRINT.",
+    "date": "2024-10-21",
+    "time_blocked": "08:00 AM - 09:00 AM"
+  }
+]
