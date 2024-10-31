@@ -3,7 +3,8 @@ using System;
 using System.ClientModel.Primitives;
 
 var endpoint = new Uri("http://localhost:11434");
-var modelId = "llama3.1:70b";
+//var modelId = "llama3.1:70b";
+var modelId = "phi3:latest";
 
 // Disable specific warnings
 #pragma warning disable SKEXP0010
